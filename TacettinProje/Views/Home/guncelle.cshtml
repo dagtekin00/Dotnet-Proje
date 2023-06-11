@@ -1,0 +1,23 @@
+@model gelenSiparis;
+@{
+    ViewData["Title"] = "guncelle";
+}
+<form method="POST" asp-action="guncelle">
+  <div class="mb-3">
+    <label class="form-label">Ad Soyad</label>
+    <input asp-for="AdSoyad" type="text" class="form-control" value="@Model.AdSoyad">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Paket</label>
+    <input asp-for="Paket" type="text" class="form-control" value="@Model.Paket">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Telefon</label>
+    <input asp-for="Telefon" type="text" class="form-control" value="@Model.Telefon">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Mail</label>
+    <input asp-for="Mail" type="text" class="form-control" value="@Model.Mail">
+  </div>
+  <button type="submit" class="btn btn-primary">Siparis Ver</button>
+</form>

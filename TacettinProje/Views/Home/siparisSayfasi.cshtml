@@ -1,0 +1,59 @@
+@model gelenSiparis;
+@{
+    ViewData["Title"] = "siparisSayfasi";
+}
+
+<form method="POST" asp-action="siparisSayfasi" class="mt-4">
+  <div class="mb-3">
+    <label class="form-label text-white">Ad Soyad</label>
+    <input asp-for="AdSoyad" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label text-white">Paket</label>
+    <input asp-for="Paket" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label text-white">Telefon</label>
+    <input asp-for="Telefon" type="text" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label text-white">Mail</label>
+    <input asp-for="Mail" type="text" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary">Siparis Ver</button>
+</form>
+ <div class="row mt-5 justify-content-center">
+     <div class="col-4 border border-info mx-3"style=" border-radius:20px; box-shadow: 0 0 5px #4f62ff;">
+     <h5 class="text-center" style="color: #4f62ff; font-size: 35px;"> <b> Standart Paket </b></h5>
+      <p class="text-center text-white"><span style="font-size: 25px; ">19.99₺</span></p> 
+      <p class="text-center text-white" style="font-size: 15px; "> <b> 1 Aylık Paket </b></p>
+     <p class="text-center text-white" style="font-size: 15px; "> <span style="color:red;">X</span><b>  bütün paketler </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Sınırlı Sayıda kullanıcı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Kullanıcı Giriş Saat Aralığı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <span style="color:red;">X</span> <b> Özel Ders Ekleme </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <span style="color:red;">X</span><b>  İçerik Üreticileriyle İletişim Kurma </b></p>
+    </div>
+
+      <div class="col-4 border border-info mx-3"style=" border-radius:20px; box-shadow: 0 0 5px #4f62ff;">
+     <h5 class="text-center" style="color: #4f62ff; font-size: 35px;"> <b> Medium Paket </b></h5>
+      <p class="text-center text-white"><span style="font-size: 25px; ">39.99₺</span></p> 
+      <p class="text-center text-white" style="font-size: 15px; "> <b> 1 Aylık Paket </b></p>
+     <p class="text-center text-white" style="font-size: 15px; "> <b>  bütün paketler </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Sınırlı Sayıda kullanıcı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Kullanıcı Giriş Saat Aralığı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <span style="color:red;">X</span><b> Özel Ders Ekleme </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "><span style="color:red;">X</span> <b>  İçerik Üreticileriyle İletişim Kurma </b></p>
+    </div>
+  
+
+      <div class="col-4 border border-info mx-2 mt-4"style=" border-radius:20px; box-shadow: 0 0 5px #4f62ff;">
+     <h5 class="text-center" style="color: #4f62ff; font-size: 35px;"> <b> Premium Paket </b></h5>
+      <p class="text-center text-white"><span style="font-size: 25px; ">89.99₺</span></p> 
+      <p class="text-center text-white" style="font-size: 15px; "> <b> 1 Aylık Paket </b></p>
+     <p class="text-center text-white" style="font-size: 15px; "> <b>  bütün paketler </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Sınırlı Sayıda kullanıcı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  Kullanıcı Giriş Saat Aralığı </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b> Özel Ders Ekleme </b></p>
+      <p class="text-center text-white" style="font-size: 15px; "> <b>  İçerik Üreticileriyle İletişim Kurma </b></p>
+    </div>
+  </div>

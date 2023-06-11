@@ -1,0 +1,126 @@
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\appsettings.json
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.staticwebassets.runtime.json
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.exe
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.deps.json
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.runtimeconfig.json
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.pdb
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Oguz\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.AssemblyReference.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.AssemblyInfoInputs.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.AssemblyInfo.cs
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.RazorAssemblyInfo.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.RazorAssemblyInfo.cs
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.TacettinProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.build.TacettinProje.props
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TacettinProje.props
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TacettinProje.props
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\bundle\TacettinProje.styles.css
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\projectbundle\TacettinProje.bundle.scp.css
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.CopyComplete
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.dll
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\refint\TacettinProje.dll
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.pdb
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.genruntimeconfig.cache
+C:\Users\Oguz\Desktop\TacettinProje\obj\Debug\net7.0\ref\TacettinProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\appsettings.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.staticwebassets.runtime.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.exe
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.deps.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.runtimeconfig.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\TacettinProje.pdb
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.AssemblyReference.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.AssemblyInfoInputs.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.AssemblyInfo.cs
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.CoreCompileInputs.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.RazorAssemblyInfo.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.RazorAssemblyInfo.cs
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.TacettinProje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.build.TacettinProje.props
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TacettinProje.props
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TacettinProje.props
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\bundle\TacettinProje.styles.css
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\scopedcss\projectbundle\TacettinProje.bundle.scp.css
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.csproj.CopyComplete
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\refint\TacettinProje.dll
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.pdb
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\TacettinProje.genruntimeconfig.cache
+C:\Users\Tacettin Dağtekin\Desktop\TacettinProje\obj\Debug\net7.0\ref\TacettinProje.dll

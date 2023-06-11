@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "siparisVerenler";
+}
+<div class="text-center text-white">
+    @foreach (var item in @Model)
+    {
+        <p>
+            @item.AdSoyad
+            <a asp-action="sil" asp-route-id="@item.ID">Sil</a> - 
+            <a asp-action="detay" asp-route-id="@item.ID">Detay</a> - 
+            <a asp-action="guncelle" asp-route-id="@item.ID">Guncelle</a>
+        </p>
+    }
+</div>
